@@ -15,6 +15,7 @@ hs_err_pid*
 .metadata/
 RemoteSystemsTempFiles/
 .project
+.classpath
 
 #leJOS Fiels
 *.nxd
